@@ -1,6 +1,7 @@
-//Aluno: Pedro Henrique Carvalho Pereira
-//RA: 10418861
-//Referência utilizada (Linha 14 - Conversão de char em int): https://pt.stackoverflow.com/a/3763
+// Carolina Lee - 10440304
+// Mateus Ribeiro Cerqueira - 10443901
+//Pedro Carvalho - 10418861
+//Referência utilizada (Linha 15 - Conversão de char em int): https://pt.stackoverflow.com/a/3763
 
 #include <stdio.h>
 
