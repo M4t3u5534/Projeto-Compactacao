@@ -1,7 +1,8 @@
-//Aluno: Pedro Henrique Carvalho Pereira
-//RA: 10418861
-//Referência utilizada (linha 42 - Imprimir uma string de tamanho específico): https://stackoverflow.com/a/2239571 
-//Referência utilizada (linha 27 - Comando strncmp() para comparar strings e verificar repetição): https://www.tutorialspoint.com/c_standard_library/c_function_strncmp.htm 
+// Carolina Lee - 10440304
+// Mateus Ribeiro Cerqueira - 10443901
+//Pedro Carvalho - 10418861
+//Referência utilizada (linha 43 - Imprimir uma string de tamanho específico): https://stackoverflow.com/a/2239571 
+//Referência utilizada (linha 28 - Comando strncmp() para comparar strings e verificar repetição): https://www.tutorialspoint.com/c_standard_library/c_function_strncmp.htm 
 
 #include <stdio.h>
 #include <string.h>
